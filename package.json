@@ -1,0 +1,12 @@
+{
+  "name": "organizador-pedidos-betis",
+  "version": "1.0.0",
+  "description": "App para organizar pedidos por departamentos - Betis",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
